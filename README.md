@@ -47,6 +47,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rugved-pro&theme=radical&hide_border=false)  
 
 ---
+## 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Dev-Rugved?theme=dark&font=Montserrat&ext=heatmap)
 
 ## 👀 Profile Visitors
 
