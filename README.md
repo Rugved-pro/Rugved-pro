@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE Student at **Sardar Patel Institute of Technology**  
 💻 Passionate about **Competitive Programming & Web Development**  
-🚀 Currently building **Vichaar** (social media for ideas) & an **AI Resume Builder** project  
+🚀 Currently building **Vichaar** (social media for ideas)
 🌱 Exploring **Python, Blockchain (basics), Flask & REST APIs**  
 🎯 Goal: Win hackathons and contribute impactful open-source projects  
 
